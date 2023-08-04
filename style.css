@@ -1,0 +1,11 @@
+img {
+    width: 300px;
+    height: auto;
+    max-width: 100%;
+}
+
+p {
+    color: blue;
+    font-size: larger;
+    font-style: italic;
+}
